@@ -1,0 +1,19 @@
+<MHTML>
+   <Title></Title>
+   <Body>
+   <BR>
+   <Div>
+
+   </Div>
+   <List for="i in 0..10">
+      <Label>i</Label>
+   </List>
+   <Ul bullet="*">
+       <Label>1</Label>
+       <Label>2</Label>   ---->  * 1
+                                 * 2
+   </Ul>
+   <P>assasdasdasdasdasdsdaadaadas</P>
+   <P>dhdhdhffhfhfhfhfhfhfhf</P>
+   <img src="ascii_smile"> ---> ^_^
+</MHTML>
